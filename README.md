@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I'm passionate about building robust, scalable web
 
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Connect with me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-tr%E1%BB%8Dng-5523312b3/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-tr%E1%BB%8Dng-5523312b3/)
 - 📧 Email: nguyenncuong291@gmail.com
-- 🌐 facecbook: [Visit my facebook]([https://your-portfolio.com](https://www.facebook.com/tronq.cuonq.291/)
+- 🌐 facecbook: [Visit my facebook](https://www.facebook.com/tronq.cuonq.291/)
 
 
 ---
