@@ -47,14 +47,12 @@ Welcome to my GitHub profile! I'm passionate about building robust, scalable web
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuonq2912&layout=compact&theme=radical&hide_border=true)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cuonq2912&theme=radical&hide_border=true)
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Connect with me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-tr%E1%BB%8Dng-5523312b3/))
+- 💼 LinkedIn: [Connect with me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-tr%E1%BB%8Dng-5523312b3/)
 - 📧 Email: nguyenncuong291@gmail.com
 - 🌐 facecbook: [Visit my facebook]([https://your-portfolio.com](https://www.facebook.com/tronq.cuonq.291/)
-- 
+
 
 ---
 ⭐️ From [Cuonq2912](https://github.com/Cuonq2912)
